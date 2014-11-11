@@ -4,13 +4,7 @@
 
 # 依存ライブラリ
 
-```ruby
-require 'json'  
-require 'nokogiri'  
-require 'sqlite3'  
-require 'open-uri'  
-```  
-です。gem installでインストールしてください。
+`nokogiri` と `sqlite3` です。`bundler` gem をインストール後 `bundle install --path vendor/bundle` とかでインストールしてください。
 
 
 # 使い方
