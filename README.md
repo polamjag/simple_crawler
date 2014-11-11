@@ -29,5 +29,5 @@ require 'open-uri'
 
 # ライセンス
 
-* MITライセンスに準拠します
+* MITライセンスに準拠します ([LICENSE](LICENSE.txt))
 
