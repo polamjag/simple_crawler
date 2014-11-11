@@ -69,6 +69,8 @@ class Parser
 	end
 end
 
+
+#ARGV = {:0=>keyword, 1:=>directory_name}
 Crawl = Crawler.new(ARGV[0], ARGV[1])
 Crawl.crawl
 Parse = Parser.new(ARGV[0], ARGV[1])
